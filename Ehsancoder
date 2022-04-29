@@ -3,7 +3,7 @@ If you are using Sketch Pro, create a Jason code like this to get boolean values
 {
   "Visibility": "VISIBLE",
   "Title": "Test",
-  "Description": "Test Message",
+  "Description": "Ehsancoder",
   "MainTextButton": "Update",
   "Cancelable": true,
   "CancelButtonText": "Cancel",
