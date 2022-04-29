@@ -1,0 +1,12 @@
+If you are using Sketch Pro, create a Jason code like this to get boolean values ​​and numbers directly from the map. 
+
+{
+  "Visibility": "VISIBLE",
+  "Title": "Test",
+  "Description": "Test Message",
+  "MainTextButton": "Update",
+  "Cancelable": true,
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://google.com",
+  "Version": 1.1
+}
